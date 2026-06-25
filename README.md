@@ -1,5 +1,3 @@
-Here is a clean, professional, and comprehensive `README.md` file tailored specifically for your **Jerry Smart Voice Assistant** project. You can copy and paste this directly into your GitHub repository.
-
 ---
 
 # Jerry — Smart Voice Assistant
